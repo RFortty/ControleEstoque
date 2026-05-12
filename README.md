@@ -5,6 +5,7 @@
 - Recuperação de Senha;
   
 ▪︎ 》Tela Principal:
+
 ▪︎ Cadastro de Produtos com imagem:
   - Cadastro de Categorias;
   - Cadastro de Unidades;

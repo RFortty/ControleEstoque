@@ -1,10 +1,10 @@
-[ Funcionalidades do App ]:
+📱[ Funcionalidades do App ]:
 
-▪︎ 》Tela de Login:
+🔐☆ 》Tela de Login:
 - Cadastro de Usuários;
 - Recuperação de Senha;
   
-▪︎ 》Tela Principal:
+🏠☆ 》Tela Principal:
 
 ▪︎ Cadastro de Produtos com imagem:
   - Cadastro de Categorias;
@@ -23,9 +23,9 @@
 
 ▪︎ Histórico de Itens Baixados;
 
-▪︎ 》Banco de Dados local sincronizado com a nuvem;
+🎲☆ 》Banco de Dados local sincronizado com a nuvem;
 
-OBS:
+⚠️OBS:
 
 》Visualize as telas do app acima!
 

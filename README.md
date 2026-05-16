@@ -6,6 +6,11 @@
   
 🏠☆ 》Tela Principal:
 
+▪︎ Main Menu:
+  - 💾Backup;
+  - ☁️Sincronização Nuvem;
+  - 🤝Add Colaboradores p/ Estoque;
+    
 ▪︎ 📦Cadastro de Produtos com imagem:
   - 🗃Cadastro de Categorias;
   - 🗃Cadastro de Unidades;

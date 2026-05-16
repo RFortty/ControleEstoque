@@ -6,7 +6,7 @@
   
 🏠☆ 》Tela Principal:
 
-▪︎ Main Menu:
+▪︎ ⏬️Main Menu:
   - 💾Backup;
   - ☁️Sincronização Nuvem;
   - 🤝Add Colaboradores p/ Estoque;

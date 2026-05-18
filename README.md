@@ -1,4 +1,4 @@
-📱[ F u n c i o n a l i d a d e s   d o  A p p ]:
+📱..[ F u n c i o n a l i d a d e s  d o  A p p ]:..
 
 🔐☆ 》Tela de Login:
 - 👥️Cadastro de Usuários;

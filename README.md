@@ -8,7 +8,11 @@
 
 ▪︎ ⏬️Main Menu:
   - 💾Backup;
+  - ♻️Restore (ADM);
   - ☁️Sincronização Nuvem;
+  - 🚫Zerar Estoque (ADM);
+  - 🧹Limpar BD (ADM);
+  - 📑Auditoria de Logs (ADM);
   - 🤝Add Colaboradores p/ Estoque;
     
 ▪︎ 📦Cadastro de Produtos com imagem:

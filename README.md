@@ -7,9 +7,10 @@
 🏠☆ 》Tela Principal:
 
 ▪︎ ⏬️Main Menu:
+  - 🗃Cadastro de Categorias;
+  - 🗃Cadastro de Unidades;
   - 💾Backup;
   - ♻️Restore (ADM);
-  - ☁️Sincronização Nuvem;
   - 🚫Zerar Estoque (ADM);
   - 🧹Limpar BD (ADM);
   - 👥️Usuários (ADM);
@@ -17,8 +18,6 @@
   - 📑Auditoria de Logs (ADM);
     
 ▪︎ 📦Cadastro de Produtos com imagem:
-  - 🗃Cadastro de Categorias;
-  - 🗃Cadastro de Unidades;
 
 ▪︎ 📃Listagem de Produtos cadastrados:
   - ✏️Editar Produtos;

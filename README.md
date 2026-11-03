@@ -12,8 +12,9 @@
   - ☁️Sincronização Nuvem;
   - 🚫Zerar Estoque (ADM);
   - 🧹Limpar BD (ADM);
+  - 👥️Usuários (ADM);
+    - 🤝Add Colaboradores p/ Estoque;
   - 📑Auditoria de Logs (ADM);
-  - 🤝Add Colaboradores p/ Estoque;
     
 ▪︎ 📦Cadastro de Produtos com imagem:
   - 🗃Cadastro de Categorias;
